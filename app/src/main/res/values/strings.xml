@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thời tiết</string>
+    <string name="th_nh_ph">Thành phố</string>
+    <string name="nh_p_t_n_th_nh_ph">Nhập tên thành phố</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="_0">0</string>
+    <string name="t_nh_tr_ng">tình trạng</string>
+    <string name="d_b_o_th_i_ti_t_h_m_nay">Dự báo thời tiết hôm nay</string>
+
+</resources>
